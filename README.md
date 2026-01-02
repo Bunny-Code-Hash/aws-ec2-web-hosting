@@ -28,6 +28,15 @@ User → Internet → EC2 (Apache Web Server)
 ### Security Group Configuration
 ![Security Group](screenshots/security-group-rules.png)
 
+### Public IP
+![Public IP](screenshots/public-ip.png)
+
+### Connect Successfully
+![Connect](screenshots/connect-successfully.png)
+
+### Appache Server Running
+![Appache Server](screenshots/appache-running.png)
+
 ### Website Output
 ![Website](screenshots/website-output.png)
 
