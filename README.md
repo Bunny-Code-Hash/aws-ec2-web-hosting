@@ -23,7 +23,7 @@ User → Internet → EC2 (Apache Web Server)
 ## Screenshots
 
 ### EC2 Instance Running
-![EC2 Running](screenshots/ec2-instance-running.png)
+![EC2 Running](screenshots/ec2-running.png)
 
 ### Security Group Configuration
 ![Security Group](screenshots/security-group-rules.png)
